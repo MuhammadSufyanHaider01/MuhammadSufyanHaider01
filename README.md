@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Muhammad Sufyan Haider
 
-- 📖 I'm an undergraduate researcher working on AI-powered communications & signal processing  
-- 🧠 Exploring deep reinforcement learning for intelligent radio resource management in CR-NOMA and 6G networks  
+- 📖 I'm an undergraduate researcher at the Information Processing and Transmission(IPT) Lab, NUST  
+- 🧠 Exploring deep reinforcement learning for intelligent resource allocation in CR-NOMA and 6G networks  
 - 🤝 Always open to collaborate on ML, signal processing, or research-intensive projects!
 
 ---
